@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.data-source-icons {
+  margin: 20px;
+}
+
+input[type="file"] {
+  margin: 10px 0;
+}
